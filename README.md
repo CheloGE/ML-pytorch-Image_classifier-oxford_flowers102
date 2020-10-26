@@ -1,3 +1,3 @@
-# AI Programming with Python Project
+# CNN Network to predict flowers with Pytorch
 
-Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
+The aim of this project is to predict flowers images through the use of a convolutional neural network and Transfer learning
