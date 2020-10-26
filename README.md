@@ -1,3 +1,3 @@
-# CNN model to predict flowers with Pytorch
+# CNN model to predict flowers with Pytorch (oxford_flowers102 dataset)
 
-The aim of this project is to predict flowers images through the use of a convolutional neural network and Transfer learning
+This repository aims to create a Pytorch model to classify the "oxford_flowers102" dataset using a convolutional neural network and Transfer learning.
